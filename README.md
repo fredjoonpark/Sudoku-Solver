@@ -1,5 +1,3 @@
-Fred Park
-
 # Sudoku-Solver
 A 9x9 Sudoku Board Solver using arc consistency and domain splitting.
 
